@@ -24,19 +24,24 @@ Top Performing Sub-Categories: Highlights the sub-categories contributing most t
 
 Interactive Filters:
 Category Filters: Users can filter by specific product categories (Clothing, Electronics, Furniture) to drill down into relevant data.
+
 Month Selection: Enables users to filter data by specific months or review all months combined.
-Data Source
+
 Page Navigation Button: A built-in button allows users to easily switch between the Main Page and the Detail Page, providing flexibility in the level of analysis.
 
+Data Source
 The dashboard was built by importing and joining two CSV files:
 
 Orders.csv: Contains fields like City, Customer Name, Order Date, and State.
+
 Details.csv: Includes details such as Amount, Category, Profit, Payment Mode, and Sub-Category.
+
 Data Validation
 
 Data was thoroughly checked for missing or erroneous values.
 
 A relationship between the two files was created using the Order ID field.
+
 Column validations (Amount, Profit, Quantity, etc.) ensured data integrity, with no issues detected.
 
 
