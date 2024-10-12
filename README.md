@@ -1,5 +1,8 @@
 Retail Store Sales Analysis Dashboard
 
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/cf01dfe6-502d-4e60-b9fc-bbe855bb2028">
+
+
 This repository showcases a Power BI dashboard that provides detailed insights into the sales performance of a retail store. The dashboard presents various key metrics, allowing users to analyze data by categories, sub-categories, cities, and states, along with trends in sales and profit distribution.
 
 Dashboard Overview
