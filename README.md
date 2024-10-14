@@ -50,7 +50,7 @@ Indore leads in both sales and profit turnover, followed by Mumbai and Pune. Che
 
 
 Interactive Filters:
-Category Filters: Users can filter by specific product categories (Clothing, Electronics, Furniture) to drill down into relevant data.
+Category Filters: Users can filter by specific product categories such as Clothing, Electronics, and Furniture to drill down into relevant data. Additionally, they can select subcategories within each main category to further refine their search results.
 
 Month Selection: Enables users to filter data by specific months or review all months combined.
 
